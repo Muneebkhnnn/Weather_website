@@ -89,8 +89,8 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) fo
 ---
 
 ## 📫 Contact
-- Email -  Muneebkhn0786@gmail.com.com
-- Project Link: [https://github.com/yourusername/weather-dashboard](https://github.com/yourusername/weather-dashboard)
+- Email -  Muneebkhn0786@gmail.com
+- Project Link: [https://github.com/yourusername/weather-dashboard](https://github.com/Muneebkhnnn/weather-dashboard)
 
 ---
 
