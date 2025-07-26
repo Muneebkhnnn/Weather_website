@@ -10,7 +10,7 @@ function Forecast({ data }) {
     <section className="py-12 md:py-16 bg-gray-50">
       <div className="container mx-auto px-4">
         <h2 className="text-2xl md:text-3xl font-bold text-center mb-2 text-gray-800">
-          5-Day Forecast
+          The Next-Day's Forecast
         </h2>
         <p className="text-center text-gray-600 mb-8">
           Plan your week with confidence
