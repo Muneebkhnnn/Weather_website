@@ -1,6 +1,6 @@
 import React from 'react'
 import ForecastCard from './ForecastCard';
-import forecast from '../utils/forecastData';
+import forecast from '../utils/forecastdata';
 
 function Forecast({ data }) {
 
