@@ -58,7 +58,7 @@ export default function forecast(data) {
       (a, b) => (descriptionCount[a] > descriptionCount[b] ? a : b)
     );
 
-    const forecsat = {
+    const forecast = {
       date:date,
       day: day, 
       max_temp: max_temp, 
@@ -67,7 +67,7 @@ export default function forecast(data) {
       maxFrequencyDescription: maxFrequencyDescription, 
     };
 
-    forcastDays.push(forecsat);
+    forcastDays.push(forecast);
   });
   return forcastDays;
 }
